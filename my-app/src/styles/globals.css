@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #eff2f1;
+}
+
+.image-no-outline {
+  outline: none;
+  border: none;
+}
